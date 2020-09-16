@@ -16,3 +16,4 @@ Q1) What are the most common emotions/words used by Males and Females?
 Q2) Which gender makes more typos in their tweets?<br>
 
 
+If ipynb File is Showing Can't reload Try Again Try  https://nbviewer.jupyter.org/github/you-knowme/Verzeo_Major_project/blob/master/Assignment_one.ipynb 
